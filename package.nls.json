@@ -1,0 +1,16 @@
+{
+  "displayName": "SpecManager",
+  "description": "Project and task management for SpecManager",
+  "command.openDashboard": "Open Dashboard",
+  "command.refreshData": "Refresh Data",
+  "command.logout": "Logout",
+  "view.dashboard": "Dashboard",
+  "view.containerTitle": "SpecManager",
+  "config.title": "SpecManager",
+  "config.apiUrl.description": "The API URL for SpecManager backend",
+  "config.language.description": "Language for the extension UI",
+  "config.language.auto.description": "Auto-detect from system",
+  "config.language.en.description": "English",
+  "config.language.he.description": "Hebrew",
+  "config.language.es.description": "Spanish"
+}

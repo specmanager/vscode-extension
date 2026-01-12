@@ -1,0 +1,130 @@
+{
+  "header": {
+    "title": "SpecManager",
+    "logout": "Logout",
+    "selectProject": "Select project..."
+  },
+  "auth": {
+    "logout": "Logout"
+  },
+  "projects": {
+    "selectProject": "Select project..."
+  },
+  "login": {
+    "title": "Welcome to SpecManager",
+    "subtitle": "Sign in to manage your specs and tasks",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "orContinueWith": "Or continue with",
+    "github": "GitHub",
+    "error": "Login failed"
+  },
+  "tabs": {
+    "details": "Details",
+    "specs": "Specs",
+    "tasks": "Tasks",
+    "logs": "Logs",
+    "approvals": "Approvals"
+  },
+  "project": {
+    "title": "Project Details",
+    "name": "Name",
+    "repository": "Repository",
+    "branch": "Default Branch",
+    "created": "Created",
+    "updated": "Last Updated",
+    "noRepository": "No repository linked"
+  },
+  "specs": {
+    "title": "Specifications",
+    "empty": "No specs found",
+    "noSpecs": "No specs in this project",
+    "selectSpec": "Select spec...",
+    "stage": "Stage",
+    "requirements": "Requirements",
+    "design": "Design",
+    "tasks": "Tasks",
+    "implementation": "Implementation",
+    "complete": "Complete",
+    "viewDocuments": "View Documents"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "empty": "No tasks found",
+    "noTasks": "No tasks for this spec",
+    "filter": "Filter",
+    "all": "All",
+    "pending": "Pending",
+    "inProgress": "In Progress",
+    "done": "Done",
+    "progress": "Progress",
+    "overall": "Overall",
+    "status": {
+      "pending": "Pending",
+      "in-progress": "In Progress",
+      "done": "Done"
+    },
+    "files": "Files",
+    "purposes": "Purposes",
+    "implementation": "Implementation",
+    "stats": {
+      "total": "Total",
+      "completed": "Completed",
+      "remaining": "Remaining",
+      "progress": "Progress"
+    }
+  },
+  "approvals": {
+    "title": "Approvals",
+    "empty": "No pending approvals",
+    "pending": "Pending",
+    "type": {
+      "requirements": "Requirements",
+      "design": "Design",
+      "tasks": "Tasks"
+    },
+    "status": {
+      "pending": "Pending",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "needs-revision": "Needs Revision"
+    },
+    "approve": "Approve",
+    "reject": "Reject",
+    "requestRevision": "Request Revision",
+    "responseLabel": "Response (optional)",
+    "responsePlaceholder": "Add a comment..."
+  },
+  "logs": {
+    "title": "Implementation Logs",
+    "empty": "No logs available",
+    "comingSoon": "Implementation logs coming soon"
+  },
+  "language": {
+    "selector": "Language",
+    "english": "English",
+    "spanish": "Español",
+    "hebrew": "עברית"
+  },
+  "documents": {
+    "copy": "Copy",
+    "export": "Export",
+    "noContent": "No content available"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "refresh": "Refresh",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm",
+    "noData": "No data available"
+  },
+  "notification": {
+    "success": "Success",
+    "error": "Error"
+  }
+}

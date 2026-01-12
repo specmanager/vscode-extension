@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "SpecManager"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "continueWithGithub": "Continuar con GitHub",
+    "welcome": "Bienvenido a SpecManager",
+    "subtitle": "Gestiona especificaciones y rastrea el progreso de tareas de IA"
+  },
+  "nav": {
+    "projects": "Proyectos",
+    "specs": "Especificaciones",
+    "requirements": "Requisitos",
+    "design": "Diseño",
+    "tasks": "Tareas",
+    "logout": "Cerrar sesión"
+  },
+  "projects": {
+    "select": "Seleccionar Proyecto",
+    "noProjects": "No hay proyectos disponibles",
+    "createNew": "Crear Nuevo Proyecto"
+  },
+  "specs": {
+    "select": "Seleccionar Especificación",
+    "noSpecs": "No hay especificaciones disponibles",
+    "createNew": "Crear Nueva Especificación"
+  },
+  "tasks": {
+    "title": "Tareas",
+    "total": "Total",
+    "completed": "Completadas",
+    "inProgress": "En Progreso",
+    "failed": "Fallidas",
+    "pending": "Pendientes",
+    "blocked": "Bloqueadas",
+    "progress": "Progreso",
+    "status": "Estado",
+    "agent": "Agente",
+    "noTasks": "No hay tareas disponibles"
+  },
+  "documents": {
+    "export": "Exportar",
+    "copy": "Copiar",
+    "copied": "Copiado al portapapeles",
+    "noContent": "No hay contenido disponible"
+  },
+  "language": {
+    "select": "Idioma",
+    "en": "English",
+    "he": "עברית",
+    "es": "Español"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  }
+}

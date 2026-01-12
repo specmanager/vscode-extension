@@ -1,0 +1,130 @@
+{
+  "header": {
+    "title": "SpecManager",
+    "logout": "Cerrar sesión",
+    "selectProject": "Seleccionar proyecto..."
+  },
+  "auth": {
+    "logout": "Cerrar sesión"
+  },
+  "projects": {
+    "selectProject": "Seleccionar proyecto..."
+  },
+  "login": {
+    "title": "Bienvenido a SpecManager",
+    "subtitle": "Inicia sesión para gestionar tus specs y tareas",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "signIn": "Iniciar sesión",
+    "signingIn": "Iniciando sesión...",
+    "orContinueWith": "O continuar con",
+    "github": "GitHub",
+    "error": "Error de inicio de sesión"
+  },
+  "tabs": {
+    "details": "Detalles",
+    "specs": "Specs",
+    "tasks": "Tareas",
+    "logs": "Registros",
+    "approvals": "Aprobaciones"
+  },
+  "project": {
+    "title": "Detalles del Proyecto",
+    "name": "Nombre",
+    "repository": "Repositorio",
+    "branch": "Rama Principal",
+    "created": "Creado",
+    "updated": "Última Actualización",
+    "noRepository": "Sin repositorio vinculado"
+  },
+  "specs": {
+    "title": "Especificaciones",
+    "empty": "No se encontraron specs",
+    "noSpecs": "No hay specs en este proyecto",
+    "selectSpec": "Seleccionar spec...",
+    "stage": "Etapa",
+    "requirements": "Requisitos",
+    "design": "Diseño",
+    "tasks": "Tareas",
+    "implementation": "Implementación",
+    "complete": "Completado",
+    "viewDocuments": "Ver Documentos"
+  },
+  "tasks": {
+    "title": "Tareas",
+    "empty": "No se encontraron tareas",
+    "noTasks": "No hay tareas para este spec",
+    "filter": "Filtrar",
+    "all": "Todas",
+    "pending": "Pendiente",
+    "inProgress": "En Progreso",
+    "done": "Completada",
+    "progress": "Progreso",
+    "overall": "General",
+    "status": {
+      "pending": "Pendiente",
+      "in-progress": "En Progreso",
+      "done": "Completada"
+    },
+    "files": "Archivos",
+    "purposes": "Propósitos",
+    "implementation": "Implementación",
+    "stats": {
+      "total": "Total",
+      "completed": "Completadas",
+      "remaining": "Restantes",
+      "progress": "Progreso"
+    }
+  },
+  "approvals": {
+    "title": "Aprobaciones",
+    "empty": "Sin aprobaciones pendientes",
+    "pending": "Pendiente",
+    "type": {
+      "requirements": "Requisitos",
+      "design": "Diseño",
+      "tasks": "Tareas"
+    },
+    "status": {
+      "pending": "Pendiente",
+      "approved": "Aprobado",
+      "rejected": "Rechazado",
+      "needs-revision": "Necesita Revisión"
+    },
+    "approve": "Aprobar",
+    "reject": "Rechazar",
+    "requestRevision": "Solicitar Revisión",
+    "responseLabel": "Respuesta (opcional)",
+    "responsePlaceholder": "Añadir un comentario..."
+  },
+  "logs": {
+    "title": "Registros de Implementación",
+    "empty": "No hay registros disponibles",
+    "comingSoon": "Registros de implementación próximamente"
+  },
+  "language": {
+    "selector": "Idioma",
+    "english": "English",
+    "spanish": "Español",
+    "hebrew": "עברית"
+  },
+  "documents": {
+    "copy": "Copiar",
+    "export": "Exportar",
+    "noContent": "Sin contenido disponible"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "refresh": "Actualizar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "confirm": "Confirmar",
+    "noData": "Sin datos disponibles"
+  },
+  "notification": {
+    "success": "Éxito",
+    "error": "Error"
+  }
+}

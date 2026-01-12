@@ -1,0 +1,16 @@
+{
+  "displayName": "SpecManager",
+  "description": "Gestión de proyectos y tareas para SpecManager",
+  "command.openDashboard": "Abrir Panel",
+  "command.refreshData": "Actualizar Datos",
+  "command.logout": "Cerrar Sesión",
+  "view.dashboard": "Panel",
+  "view.containerTitle": "SpecManager",
+  "config.title": "SpecManager",
+  "config.apiUrl.description": "URL de la API del servidor de SpecManager",
+  "config.language.description": "Idioma de la interfaz de la extensión",
+  "config.language.auto.description": "Detectar automáticamente del sistema",
+  "config.language.en.description": "Inglés",
+  "config.language.he.description": "Hebreo",
+  "config.language.es.description": "Español"
+}

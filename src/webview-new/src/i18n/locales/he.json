@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "SpecManager"
+  },
+  "auth": {
+    "login": "התחברות",
+    "username": "שם משתמש",
+    "password": "סיסמה",
+    "continueWithGithub": "המשך עם GitHub",
+    "welcome": "ברוכים הבאים ל-SpecManager",
+    "subtitle": "נהל מפרטים ועקוב אחר התקדמות משימות AI"
+  },
+  "nav": {
+    "projects": "פרויקטים",
+    "specs": "מפרטים",
+    "requirements": "דרישות",
+    "design": "עיצוב",
+    "tasks": "משימות",
+    "logout": "התנתקות"
+  },
+  "projects": {
+    "select": "בחר פרויקט",
+    "noProjects": "אין פרויקטים זמינים",
+    "createNew": "צור פרויקט חדש"
+  },
+  "specs": {
+    "select": "בחר מפרט",
+    "noSpecs": "אין מפרטים זמינים",
+    "createNew": "צור מפרט חדש"
+  },
+  "tasks": {
+    "title": "משימות",
+    "total": "סך הכל",
+    "completed": "הושלמו",
+    "inProgress": "בביצוע",
+    "failed": "נכשלו",
+    "pending": "ממתינות",
+    "blocked": "חסומות",
+    "progress": "התקדמות",
+    "status": "סטטוס",
+    "agent": "סוכן",
+    "noTasks": "אין משימות זמינות"
+  },
+  "documents": {
+    "export": "ייצוא",
+    "copy": "העתק",
+    "copied": "הועתק ללוח",
+    "noContent": "אין תוכן זמין"
+  },
+  "language": {
+    "select": "שפה",
+    "en": "English",
+    "he": "עברית",
+    "es": "Español"
+  },
+  "common": {
+    "loading": "טוען...",
+    "error": "שגיאה",
+    "success": "הצלחה"
+  }
+}

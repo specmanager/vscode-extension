@@ -1,0 +1,1 @@
+{"root":["./src/extension/types.ts","./src/extension/providers/SidebarProvider.ts","./src/extension/services/ApiService.ts","./src/extension/services/AuthService.ts","./src/extension/services/EventService.ts","./src/extension.ts","./esbuild.js"],"version":"5.9.3"}

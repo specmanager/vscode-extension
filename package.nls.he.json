@@ -1,0 +1,16 @@
+{
+  "displayName": "SpecManager",
+  "description": "ניהול פרויקטים ומשימות עבור SpecManager",
+  "command.openDashboard": "פתח לוח בקרה",
+  "command.refreshData": "רענן נתונים",
+  "command.logout": "התנתק",
+  "view.dashboard": "לוח בקרה",
+  "view.containerTitle": "SpecManager",
+  "config.title": "SpecManager",
+  "config.apiUrl.description": "כתובת ה-API של שרת SpecManager",
+  "config.language.description": "שפת ממשק המשתמש של התוסף",
+  "config.language.auto.description": "זיהוי אוטומטי מהמערכת",
+  "config.language.en.description": "אנגלית",
+  "config.language.he.description": "עברית",
+  "config.language.es.description": "ספרדית"
+}

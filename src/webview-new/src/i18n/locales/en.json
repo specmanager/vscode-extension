@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "SpecManager"
+  },
+  "auth": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "continueWithGithub": "Continue with GitHub",
+    "welcome": "Welcome to SpecManager",
+    "subtitle": "Manage specifications and track AI task progress"
+  },
+  "nav": {
+    "projects": "Projects",
+    "specs": "Specs",
+    "requirements": "Requirements",
+    "design": "Design",
+    "tasks": "Tasks",
+    "logout": "Logout"
+  },
+  "projects": {
+    "select": "Select Project",
+    "noProjects": "No projects available",
+    "createNew": "Create New Project"
+  },
+  "specs": {
+    "select": "Select Spec",
+    "noSpecs": "No specs available",
+    "createNew": "Create New Spec"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "total": "Total",
+    "completed": "Completed",
+    "inProgress": "In Progress",
+    "failed": "Failed",
+    "pending": "Pending",
+    "blocked": "Blocked",
+    "progress": "Progress",
+    "status": "Status",
+    "agent": "Agent",
+    "noTasks": "No tasks available"
+  },
+  "documents": {
+    "export": "Export",
+    "copy": "Copy",
+    "copied": "Copied to clipboard",
+    "noContent": "No content available"
+  },
+  "language": {
+    "select": "Language",
+    "en": "English",
+    "he": "עברית",
+    "es": "Español"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}

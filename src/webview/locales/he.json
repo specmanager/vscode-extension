@@ -1,0 +1,130 @@
+{
+  "header": {
+    "title": "SpecManager",
+    "logout": "התנתק",
+    "selectProject": "בחר פרויקט..."
+  },
+  "auth": {
+    "logout": "התנתק"
+  },
+  "projects": {
+    "selectProject": "בחר פרויקט..."
+  },
+  "login": {
+    "title": "ברוכים הבאים ל-SpecManager",
+    "subtitle": "התחבר כדי לנהל את המפרטים והמשימות שלך",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "signIn": "התחבר",
+    "signingIn": "מתחבר...",
+    "orContinueWith": "או המשך עם",
+    "github": "GitHub",
+    "error": "ההתחברות נכשלה"
+  },
+  "tabs": {
+    "details": "פרטים",
+    "specs": "מפרטים",
+    "tasks": "משימות",
+    "logs": "יומנים",
+    "approvals": "אישורים"
+  },
+  "project": {
+    "title": "פרטי הפרויקט",
+    "name": "שם",
+    "repository": "מאגר",
+    "branch": "ענף ברירת מחדל",
+    "created": "נוצר",
+    "updated": "עודכן לאחרונה",
+    "noRepository": "אין מאגר מקושר"
+  },
+  "specs": {
+    "title": "מפרטים",
+    "empty": "לא נמצאו מפרטים",
+    "noSpecs": "אין מפרטים בפרויקט זה",
+    "selectSpec": "בחר מפרט...",
+    "stage": "שלב",
+    "requirements": "דרישות",
+    "design": "עיצוב",
+    "tasks": "משימות",
+    "implementation": "מימוש",
+    "complete": "הושלם",
+    "viewDocuments": "צפה במסמכים"
+  },
+  "tasks": {
+    "title": "משימות",
+    "empty": "לא נמצאו משימות",
+    "noTasks": "אין משימות למפרט זה",
+    "filter": "סנן",
+    "all": "הכל",
+    "pending": "ממתין",
+    "inProgress": "בביצוע",
+    "done": "הושלם",
+    "progress": "התקדמות",
+    "overall": "כללי",
+    "status": {
+      "pending": "ממתין",
+      "in-progress": "בביצוע",
+      "done": "הושלם"
+    },
+    "files": "קבצים",
+    "purposes": "מטרות",
+    "implementation": "מימוש",
+    "stats": {
+      "total": "סה״כ",
+      "completed": "הושלמו",
+      "remaining": "נותרו",
+      "progress": "התקדמות"
+    }
+  },
+  "approvals": {
+    "title": "אישורים",
+    "empty": "אין אישורים ממתינים",
+    "pending": "ממתין",
+    "type": {
+      "requirements": "דרישות",
+      "design": "עיצוב",
+      "tasks": "משימות"
+    },
+    "status": {
+      "pending": "ממתין",
+      "approved": "אושר",
+      "rejected": "נדחה",
+      "needs-revision": "דורש תיקון"
+    },
+    "approve": "אשר",
+    "reject": "דחה",
+    "requestRevision": "בקש תיקון",
+    "responseLabel": "תגובה (אופציונלי)",
+    "responsePlaceholder": "הוסף הערה..."
+  },
+  "logs": {
+    "title": "יומני מימוש",
+    "empty": "אין יומנים זמינים",
+    "comingSoon": "יומני מימוש בקרוב"
+  },
+  "language": {
+    "selector": "שפה",
+    "english": "English",
+    "spanish": "Español",
+    "hebrew": "עברית"
+  },
+  "documents": {
+    "copy": "העתק",
+    "export": "ייצא",
+    "noContent": "אין תוכן זמין"
+  },
+  "common": {
+    "loading": "טוען...",
+    "error": "שגיאה",
+    "refresh": "רענן",
+    "save": "שמור",
+    "cancel": "בטל",
+    "close": "סגור",
+    "confirm": "אשר",
+    "noData": "אין נתונים זמינים"
+  },
+  "notification": {
+    "success": "הצלחה",
+    "error": "שגיאה"
+  }
+}
